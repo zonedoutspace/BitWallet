@@ -1,0 +1,94 @@
+/* CSS Document */
+
+@charset "utf-8";
+body{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	background-color:#EFEFEF;
+}
+#headBar{
+	width:740px;
+	background-color:#666;
+	height:60px;
+	margin:0 auto;
+	padding:20px;
+	border:1px solid #000;
+}
+.logoFont{
+	font-size:48px;
+	color:#FFF;
+	margin:0px;
+	padding:0px;
+}
+h3{
+	margin-top:10px;
+}
+p{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color:#000;
+	font-size:10px;
+	margin:5px;
+}
+
+#container{
+	width:780px;
+	padding:10px;
+	margin:0 auto;
+}
+#userInfo{
+	background-color:#E8E8E8;
+	width:760px;
+	padding:10px;
+	height:auto;
+	border:1px solid #999;
+	border-radius:5px;
+	margin:10px auto;
+	margin-bottom:0px;
+}
+#nav{
+	float:left;
+	padding:20px;
+	background-color:#E8E8E8;
+	width:150px;
+	height:auto;
+	border:1.5px solid #999;
+	border-radius:5px;
+	margin-bottom:10px;
+}
+#main{
+	float:right;
+	padding:20px;
+	width:530px;
+	height:auto;
+	margin:0 auto;
+	margin-bottom:10px;
+	background-color:#FFF;
+	border: 1px solid #999;
+	border-radius:5px;
+}
+
+a:hover{
+	color:#372D35;
+	text-decoration:bold;
+	font-size:10px;
+}
+a:link{
+	color:#372D35;
+	text-decoration:none;
+	font-size:10px;
+}
+a:visited{
+	color:#372D35;
+	text-decoration:none;
+	font-size:10px;
+}
+#footer{
+	clear: both;
+	width: 770px;
+	margin:auto;
+	padding: 5px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #999;
+	border-radius: 5px;
+	background-color:#E8E8E8;
+}
